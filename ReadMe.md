@@ -22,7 +22,8 @@
 
 --
 ## Главная Админ-панель ![image](https://github.com/user-attachments/assets/6a1c825c-2662-4738-aff4-ed9566d5472d) ![image](https://github.com/user-attachments/assets/d49b04b5-cb43-431c-8f6b-92c322ae849d) ![image](https://github.com/user-attachments/assets/c080abb6-9ec7-4828-8114-57b6fb36203f)
-![image](https://github.com/user-attachments/assets/ca7971ba-dabd-47a6-8b86-c9b80d8d0b62) ![image](https://github.com/user-attachments/assets/d6a41e51-817a-472a-9b73-948281914a2b)
+![image](https://github.com/user-attachments/assets/ca7971ba-dabd-47a6-8b86-c9b80d8d0b62) ![image](https://github.com/user-attachments/assets/d6a41e51-817a-472a-9b73-948281914a2b) ![Uploading image.png…]()
+
 
 
 
