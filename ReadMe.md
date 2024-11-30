@@ -1,4 +1,4 @@
-<a align="center"><img src="https://github.com/user-attachments/assets/fe980af4-4e6f-4fc8-ad38-d93c51346c7f" width="400"></a>
+<p align"center"><a ><img src="https://github.com/user-attachments/assets/fe980af4-4e6f-4fc8-ad38-d93c51346c7f" width="400"></p>
 ## System accounting use resources in information system
 ## Система учета использования ресурсов информационных систем
 
