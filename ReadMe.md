@@ -8,7 +8,8 @@
 - Back-end будет использовать "laravel","python" 
 - BD будет на  "Mysql"
 ## logo
-![image](https://github.com/user-attachments/assets/4ca1d29e-45a0-4a0f-89aa-9f5453bb6228)
+![image](https://github.com/user-attachments/assets/fe980af4-4e6f-4fc8-ad38-d93c51346c7f)
+
 
 ## Главная ![image](https://github.com/user-attachments/assets/0f60509d-4990-41f9-ad3d-0f9be00eb495) ![image](https://github.com/user-attachments/assets/d243d8c3-a9b1-4b53-b8d2-0d66d19c5326) ![image](https://github.com/user-attachments/assets/78868339-dbad-4676-986b-a483b0d83e20)
 
