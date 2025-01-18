@@ -27,7 +27,7 @@
 ![image](https://github.com/user-attachments/assets/ca7971ba-dabd-47a6-8b86-c9b80d8d0b62) ![image](https://github.com/user-attachments/assets/d6a41e51-817a-472a-9b73-948281914a2b) 
 
 
-
+ЧТобы запустить эту систему надо папку suiris закинуть в папку domains В OSPanel, дальше создать базу данных suiris
 
 
 
