@@ -76,6 +76,16 @@ body{
     font-family:monsterat;
     
  }
+ #none{
+  text-decoration: none;
+  color:#F6F4F5;
+  margin:Auto;
+ }
+ #c{
+ background-color: #A0C4DC;
+  font-size:150px;
+  color:#F6F4F5;
+ }
  .slov{
     margin-top:100px;
     height:100px;
@@ -156,11 +166,10 @@ body{
     color:#7EC0F5;
     text-align:center;
     font-size:40px;
-    margin:auto;
     display: flex;
+    margin:auto;
   align-content: center;
   align-items: center;
-  text-align: center;
   
  }
  .taeble{
@@ -405,14 +414,18 @@ body{
     border-radius:33px;
  }
  #admins{
-  color:#A0C4DC;display:flex;
+  text-decoration:none;
+  color:#A0C4DC;
+  margin:auto;
  }
  #d{
   color:#F6F4F5;
   background-color: #A0C4DC;
    display: flex;
-  align-content: center;
-  align-items: center;
+  
+ }
+ #ma{
+  margin:Auto;
  }
  #bu{
   background-color: #A0C4DC;
@@ -440,6 +453,7 @@ body{
   color:#F6F4F5;
   text-decoration: none;
 }
+
 .minus{
   margin-left:350px;
 }
